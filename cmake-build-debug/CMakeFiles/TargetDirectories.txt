@@ -1,3 +1,0 @@
-/home/shubh/CLionProjects/RTSkippy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/shubh/CLionProjects/RTSkippy/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/shubh/CLionProjects/RTSkippy/cmake-build-debug/CMakeFiles/RTSkippy.dir
