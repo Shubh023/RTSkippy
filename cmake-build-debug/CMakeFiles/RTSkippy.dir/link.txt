@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/RTSkippy.dir/src/main.cpp.o CMakeFiles/RTSkippy.dir/src/Shader.cpp.o CMakeFiles/RTSkippy.dir/src/EBO.cpp.o CMakeFiles/RTSkippy.dir/src/VBO.cpp.o CMakeFiles/RTSkippy.dir/src/VAO.cpp.o -o RTSkippy  -lGL -lGLU -lGLEW -lglfw -lpthread 
